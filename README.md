@@ -21,8 +21,8 @@ This Flutter application presents a list of restaurant categories (such as Chine
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/mahamshahzad8/restaurant-hero-app.git
-cd restaurant-hero-app
+git clone https://github.com/mahamshahzad8/restaurant_app.git
+cd restaurant_app
 ```
 
 2. **Install dependencies:**
