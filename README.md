@@ -8,7 +8,7 @@ This Flutter application presents a list of restaurant categories (such as Chine
 - Each category includes a name, image, details, and a list of food items.
 - Seamless navigation to a detailed screen using shared `Hero` animations.
 - Slowed-down animation using `timeDilation` to enhance the learning experience.
-- 
+
 ## Getting Started
 
 ### Prerequisites
